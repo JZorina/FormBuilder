@@ -20,6 +20,6 @@ Back side: NodeJs
 <br/>	
 2) go to formBuilder\form-builder folder and run with <strong>"npm install"</strong> and then "npm start" 		
 <br/>		
-3) go to formBuilder\server folder and run <strong>"npm install" and then "node index"</strong></p>
+3) go to formBuilder\server folder and run <strong>"npm install"</strong> and then "node index"</strong></p>
 
 	
