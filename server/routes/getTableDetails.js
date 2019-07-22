@@ -44,9 +44,10 @@ router.get('/', function(req, res, next) {
              result = JSON.stringify(arrForTable);
              res.send(result);
          }
-         })  
+         })   
       }
     })
   })
+  req.clo
 });
 module.exports = router;

@@ -9,7 +9,7 @@ class FormViewer extends React.Component{
             id:props.match.params.id,
             Schema:[],
             flag:false,
-            formData:[]
+            formData:[],
 
         }
         this.initialStateformData = { ...this.state.formData } 
@@ -54,20 +54,28 @@ class FormViewer extends React.Component{
             data: this.state.formData,
             id:this.state.id
         }).then((response)=> {
+            alert("Thankyou for you feedback :)");
+            this.setState({formData:[]});
+            console.log(this.state.values);
+            console.log(this.state.formData);
+            console.log(Object.keys(this.state.formData));
+
             if(response.success)
                 console.log("Data submitted successfully: ", response);
+
                 
         }).catch((error)=> {
            console.log("got errr while posting data", error);
         });
         
-        this.nextPath("/");
+        //this.nextPath("/");
     }
     ChangeVal=(label,e)=>{
 
         const fields={...this.state.formData}
         fields[label]= e.target.value;
         this.setState({formData:fields});
+
     }
 
     resetForm(){
