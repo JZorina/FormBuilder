@@ -4,7 +4,9 @@
 <br/>
 <p>1)install mysql server - (for example : for windows, download from https://sourceforge.net/projects/wampserver/)
 <br/>
-1.1) define db user named : "forms"
+1.1) define db user named : <strong>"forms"</strong>
+<br/>
+1.2) define<strong> port 3306 </strong>to the mysql server
 <br/>
 2) create db named `formbuilder` and import this schema from the "formbuilder.sql" file to the db 		
 <br/>	
