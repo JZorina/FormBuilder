@@ -12,10 +12,6 @@ class App extends React.Component{
 
     async componentDidMount()
     {
-       this.GetTableDetails();
-    }
-   
-    async GetTableDetails(){
         await unsplash.get('/getTableDetails',{
         }).then((response)=> {
             if(response.success==='false'){
@@ -39,6 +35,7 @@ class App extends React.Component{
             console.log("got error while posting data", error);
             });
     }
+   
     nextPath=(path)=>{
         this.props.history.push(path);
     }
