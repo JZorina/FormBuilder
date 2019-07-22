@@ -1,5 +1,4 @@
 
-CREATE DATABASE `formbuilder`;
 
 
 DROP TABLE IF EXISTS `formdata`;
