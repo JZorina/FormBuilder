@@ -18,8 +18,8 @@ Back side: NodeJs
 <h3>installation</h3>
 1)clone the repo	
 <br/>	
-2) go to formBuilder\form-builder folder and run with "npm install" and then "npm start" 		
+2) go to formBuilder\form-builder folder and run with <strong>"npm install"</strong> and then "npm start" 		
 <br/>		
-3) go to formBuilder\server folder and run "npm install" and then "node index"</p>
+3) go to formBuilder\server folder and run <strong>"npm install" and then "node index"</strong></p>
 
 	
