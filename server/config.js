@@ -2,7 +2,7 @@ var config = {
 
 	database: {
 		host:	  'localhost', 	// database host
-		user: 	  'root', 		// your database username
+		user: 	  'forms', 		// your database username
 		db: 	  'formbuilder' 		// your database name
 	},
 	server: {
