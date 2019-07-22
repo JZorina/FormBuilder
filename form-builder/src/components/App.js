@@ -50,7 +50,6 @@ class App extends React.Component{
                 <div style={{alignItems : "center", 
                             display: "flex",
                             flexDirection: "column",
-                            alignItems: "center",
                             justifyContent: "center"}}>
                     <button
                         style={{marginTop:"50px",background:"#D7BDE2 "}}

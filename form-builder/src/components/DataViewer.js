@@ -68,7 +68,7 @@ class DataViewer extends React.Component{
         var res=[];
         this.state.headers.map((item) => {
             res.push(item.label)
-            });
+        });
             return res;
         }
 
@@ -122,7 +122,6 @@ const DivButtonstyles={
     alignItems : "center", 
     display: "flex",
     flexDirection: "column",
-    alignItems: "center",
     justifyContent: "center"
     
 }

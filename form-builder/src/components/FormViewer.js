@@ -124,7 +124,6 @@ const DivButtonstyles={
     alignItems : "center", 
     display: "flex",
     flexDirection: "column",
-    alignItems: "center",
     justifyContent: "center"
     
 }
