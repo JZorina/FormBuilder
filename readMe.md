@@ -1,7 +1,5 @@
 <h1>Hello!</h1>
-<br/>
 <h2>Technologies:</h2>
-<br/>
 <p>Front side: ReactJs
 <br/>
 Back side: NodeJs	
@@ -13,7 +11,7 @@ Back side: NodeJs
 <h3> pre-installation</h3>
 1)define db user named:<strong>"forms"</strong>
 <br/>
-2)define port<strong>3306</strong>to the mysql server
+2)define port <strong>3306</strong> to the mysql server
 <br/>
 3)create db named `formbuilder` and import this schema from the "formbuilder.sql" file to the db 		
 <br/>	
