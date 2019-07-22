@@ -1,5 +1,5 @@
 <h1>Hello!</h1>
-<h2>Technologies:</h2>
+<h3>Technologies:</h3>
 <p>Front side: ReactJs
 <br/>
 Back side: NodeJs	
