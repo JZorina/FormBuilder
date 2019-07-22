@@ -1,5 +1,4 @@
 <h1>Hello!<h1>
-	<br>
 	<h2>in order to view this project you need to:	</h2>
 	<br>
 	<p>1)install mysql server - (for example : for windows, download from https://sourceforge.net/projects/wampserver/)
