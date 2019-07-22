@@ -1,21 +1,27 @@
 <h1>Hello!</h1>
 <br/>
-<h2>in order to view this project you need to:</h2>
+<h2>Technologies:</h2>
 <br/>
-<p>1)install mysql server - (for example : for windows, download from https://sourceforge.net/projects/wampserver/)
+<p>Front side: ReactJs
 <br/>
-1.1) define db user named : <strong>"forms"</strong>
+Back side: NodeJs	
+<br/></p>
+<h3> pre-requirments:</h3>
+1)mysql server (for example : for windows, download from https://sourceforge.net/projects/wampserver/)
+2)node.js
 <br/>
-1.2) define<strong> port 3306 </strong>to the mysql server
+<h3> pre-installation</h3>
+1)define db user named:<strong>"forms"</strong>
 <br/>
-2) create db named `formbuilder` and import this schema from the "formbuilder.sql" file to the db 		
+2)define port<strong>3306</strong>to the mysql server
+<br/>
+3)create db named `formbuilder` and import this schema from the "formbuilder.sql" file to the db 		
 <br/>	
-3) clone the repo	
+<h3>installation</h3>
+1)clone the repo	
 <br/>	
-4) install node & npm if you dont have it		
+2) go to formBuilder\form-builder folder and run with "npm install" and then "npm start" 		
 <br/>		
-5) go to formBuilder\form-builder folder and run with "npm install" and then "npm start" 		
-<br/>		
-6) got to formBuilder\server folder and run "npm install" and then "node index"</p>
+3) go to formBuilder\server folder and run "npm install" and then "node index"</p>
 
 	
