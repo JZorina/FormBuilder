@@ -13,7 +13,7 @@ Back side: NodeJs
 <br/>
 2)define port <strong>3306</strong> to the mysql server
 <br/>
-3)create db named `formbuilder` and import this schema from the "formbuilder.sql" file to the db 		
+3)create db named `formbuilder` and import the schema from the "formbuilder.sql" file to the db 		
 <br/>	
 <h3>installation</h3>
 1)clone the repo	
