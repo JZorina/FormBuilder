@@ -6,7 +6,7 @@ Back side: NodeJs
 <br/></p>
 <h3> pre-requirments:</h3>
 1)mysql server (for example : for windows, download from https://sourceforge.net/projects/wampserver/)<br/>
-2)node.js
+2)node.js installed on the machine
 <br/>
 <h3> pre-installation</h3>
 1)define db user named:<strong>"forms"</strong>
