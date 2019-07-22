@@ -5,7 +5,7 @@
 Back side: NodeJs	
 <br/></p>
 <h3> pre-requirments:</h3>
-1)mysql server (for example : for windows, download from https://sourceforge.net/projects/wampserver/)
+1)mysql server (for example : for windows, download from https://sourceforge.net/projects/wampserver/)<br/>
 2)node.js
 <br/>
 <h3> pre-installation</h3>
